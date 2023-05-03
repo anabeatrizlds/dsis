@@ -1,0 +1,51 @@
+*{
+  margin: 0;
+padding: 0;
+}
+
+body{
+  font-family: arial, helvetica, sans-serif;
+  font-size: 22px;
+}
+
+#cabecalho{
+  height: 150px;
+  background: pink;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#menu{
+  height: 600px;
+  width: 610px;
+  background: violet;
+  float: left;
+  margin-left: 60px;
+  margin-top: 10px;
+}
+
+#principal{
+  height: 600px;
+  width: 610px;
+  background: MediumOrchid;
+  float: left;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#lado{
+  height: 600px;
+  width: 610px;
+  background: Plum;
+  float: left;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#rodape{
+  height: 150px;
+  background: PaleVioletRed;
+  clear: both;
+  width: 100%;
+
+}
